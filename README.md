@@ -43,6 +43,31 @@ https://blog-website-19aef.web.app/
  - sweetalert2
  - JWT 
  - cookie-parser
+## Run Locally
+
+Clone the project
+
+```bash
+  git clone https://github.com/anamikagain559/Blog-Website.git
+```
+
+Go to the project directory
+
+```bash
+  cd my-project
+```
+
+Install dependencies
+
+```bash
+  npm install
+```
+
+Start the server
+
+```bash
+  npm run start
+```
 
 
 
